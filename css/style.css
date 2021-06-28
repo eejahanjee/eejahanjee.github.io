@@ -19,7 +19,7 @@ General
 
 body{
 	text-align: center;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Sofia Pro', sans-serif;
 	font-size: 14px;
 	line-height: 1.6em;
 }
@@ -47,7 +47,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 	color: #3a3a3a;
 	font-weight: 700;
 	margin-bottom: 20px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Sofia Pro', sans-serif;
 }
 
 
@@ -257,7 +257,7 @@ Intro
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
   margin: 0 auto 30px auto;
-  color: #1A1A1A;
+  color: #2c2c2c;
 }
 
 @media (max-width: 768px ) {
